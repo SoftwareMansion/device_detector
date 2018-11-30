@@ -1,3 +1,11 @@
+#Update
+
+Update regex
+	`rake update_regexes`
+Update test
+	`rake test`
+
+
 # DeviceDetector
 
 ![Podigee DeviceDetector Travisci Badge](https://travis-ci.org/podigee/device_detector.svg)
